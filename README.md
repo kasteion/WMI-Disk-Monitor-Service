@@ -25,4 +25,5 @@ To uninstall this service i used the next command:
 Or you could alsy try with powershell:
 
 > Remove-Service -Name "My Disk Monitor"
+>
 > sc.exe delete "My Super Cool Monitor"
